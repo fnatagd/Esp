@@ -4,6 +4,18 @@ Text = "Maded By Calmaric",
 Duration = 5,
 })
 
+game.StarterGui:SetCore("SendNotification", {
+Title = "Info",
+Text = "Join Our Discord",
+Duration = 5,
+})
+
+game.StarterGui:SetCore("SendNotification", {
+Title = "Discord",
+Text = "discord.gg/HPsPH8gj",
+Duration = 5,
+})
+
 local Settings = {
     Box_Color = Color3.fromRGB(255, 0, 0),
     Tracer_Color = Color3.fromRGB(255, 0, 0),
